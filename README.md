@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sankalpvyas11
-- 👀 I’m interested in Front end web development!
+- 👀 I’m interested in Full Stack web development!
 - 🌱 I’m currently learning Javascript and The MERN Stack.
 - 💞️ I’m looking to collaborate on Front end projects.
 - 📫 How to reach me:-
